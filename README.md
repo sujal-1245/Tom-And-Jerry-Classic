@@ -96,13 +96,10 @@ Then open your browser and go to:
 
 ## 🧩 Screenshots
 
-| Gameplay                                  | Difficulty Dropdown                          |
-| ----------------------------------------- | -------------------------------------------- |
-| ![image](https://github.com/user-attachments/assets/f882ace3-0c3e-4ab5-91f0-11c063cbb945)
+| Gameplay | Difficulty Dropdown |
+|----------|---------------------|
+| <img src="https://github.com/user-attachments/assets/f882ace3-0c3e-4ab5-91f0-11c063cbb945" width="300"/> | <img src="https://github.com/user-attachments/assets/ecb188b4-1cc4-4b7f-9acc-d322cda874a3" width="300"/> |
 
- | ![image](https://github.com/user-attachments/assets/ecb188b4-1cc4-4b7f-9acc-d322cda874a3)
-
- |
 
 ---
 
