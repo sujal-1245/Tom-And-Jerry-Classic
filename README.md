@@ -98,7 +98,9 @@ Then open your browser and go to:
 
 | Gameplay                                  | Difficulty Dropdown                          |
 | ----------------------------------------- | -------------------------------------------- |
-| ![board](https://i.imgur.com/fSxRPjD.png) | ![dropdown](https://i.imgur.com/5sU60Pg.png) |
+| ![image](https://github.com/user-attachments/assets/156308c5-4a5b-46bd-be6f-df106e5df33e)
+ | ![image](https://github.com/user-attachments/assets/5c60a9bc-e5ee-4ce1-8a56-a8404266d2be)
+ |
 
 ---
 
